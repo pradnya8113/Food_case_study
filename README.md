@@ -1,1 +1,1 @@
-# Food_case_study
+# Feynn labs
